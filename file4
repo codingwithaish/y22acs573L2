@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file4 modified on main to demonstrate rebase conflicts
+=======
+this is file4 modified on feature-branch
+>>>>>>> b82c203 (file4 modified on fb)

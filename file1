@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is file1 modified on main 2nd time to show conflicts in 3-way merge
+=======
+this is file1 modified on feature-branch
+>>>>>>> feature-branch
